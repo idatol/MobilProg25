@@ -53,7 +53,7 @@ export default function HomeScreen() {
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Etter at man har fått appen opp å kjøre:</ThemedText>
-        <ThemedText type="defaultSemiBold">Legge til tekst</ThemedText>
+        <ThemedText type="defaultSemiBold">Legge til tekst, det er gøy!</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
   );
